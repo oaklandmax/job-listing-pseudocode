@@ -1,5 +1,3 @@
-Hi Patrick,
-
 Well there is a lot of stuff here. It mostly looks like code, but there is a fair amount of pesudocode in the comments describing the parts
 that were clearly similar to the working code, and describing what things might look like.
 
@@ -16,7 +14,3 @@ depends on looking at the sample data, and envisioning it as a formatted table, 
 enough for folks who are looking at it from a business perpective.
 
 This has been a fun project, and given more time it could be even better with more validations, better SQL security, etc. 
-
-I look forward to continuing in the interview process, and hope this is close to what you were hoping to receive. 
-
--Max Perez
